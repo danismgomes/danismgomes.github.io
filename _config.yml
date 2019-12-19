@@ -1,11 +1,11 @@
 # Site settings
-title: Mobile Developer
+title: Danielle Gomes
 email: danismgomes@gmail.com
 url: https://danismgomes.github.io
 description: "DDDDDDWrite an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Mobile Developer"
+meta_author: Gomes Danielle
 
 # Google webmaster tools
 google_verify:
