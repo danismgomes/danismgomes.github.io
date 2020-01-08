@@ -56,7 +56,7 @@ address:
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Teste teste teste'
+#credits: 'Teste teste teste'
 #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
