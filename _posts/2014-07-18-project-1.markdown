@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2019-10-21
+img: milkLogo.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: October 2019
+client: 
+category: iOS Development
+description: The goal of this app is to control your finances. You can add deposits and withdrawls and see how much you spent and how much you saved from you income. To login, you can create your own login or you can use facebook or google as social media login. It was developed with Swift using Firebase as database. This project was made in group by me and Hyeock Gu (Grace Gu). We used Github to do the project management and Slack as communication tool. This project is still in development but will be published and avaliable at App Store soon. You can access the mockup of the project in this link <a https://hyeockgu.github.io/milk/index.html>Milk MockUp</a>.
 
 ---
