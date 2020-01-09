@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2019-09-05
+img: dedlibraryLogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: September 2019
+client: 
+category: Android Development
+description: This app is to be used for D&D Masters to search or to random monsters, fields, weapons, spells and anything they can find on the D&D Books. They will find the page and the book that the item is placed, therefore they can use the book to read the information about the item they was searching for. This app was made in group by me (Danielle Gomes), Alexandre Gomes and Bruno Fontana. It was developed with Java using the Android SDK Framework and the database was made using Firebase. To manage the project we used Gitlab and Discord as communication tool. As soon we finish inputing the data at the database, this app will be released at play store.
 
 ---
