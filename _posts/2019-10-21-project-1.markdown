@@ -7,6 +7,6 @@ alt: image-alt
 project-date: October 2019
 client: 
 category: iOS Development
-description: The goal of this app is to control your finances. You can add deposits and withdrawls and see how much you spent and how much you saved from you income. To login, you can create your own login or you can use facebook or google as social media login. It was developed with Swift using Firebase as database. This project was made in group by me and Hyeock Gu (Grace Gu). We used Github to do the project management and Slack as communication tool. This project is still in development but will be published and avaliable at App Store soon. You can access the mockup of the project in this link <a href="https://hyeockgu.github.io/milk/index.html">Milk MockUp</a>.
+description: App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. 
 
 ---
