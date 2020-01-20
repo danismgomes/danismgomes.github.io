@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2019
 client: 
 category: Android Development
-description: This app was developed to be used by the Master of the table RPG Dungeons and Dragons. The master can find the monster needed or random it. The information showed in the app are the page and the name of the book where the monster is. Technologies and tools used: Java (Android SDK), Android Studio, Firebase, Git/GitLab, MVC, Kanban, Gimp and AdobeXd.
+description: This app was developed to be used by the Master of the table RPG Dungeons and Dragons. The master can find the monster needed or random it. The information showed in the app are the page and the name of the book where the monster is. Technologies and tools used: Java , Android Studio, Firebase, Git/GitLab, MVC, Kanban, Gimp and AdobeXd.
 
 ---
