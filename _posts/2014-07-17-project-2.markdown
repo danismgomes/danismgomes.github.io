@@ -7,6 +7,6 @@ alt: image-alt
 project-date: September 2019
 client: 
 category: Android Development
-description: This app is to be used for D&D Masters to search or to random monsters, fields, weapons, spells and anything they can find on the D&D Books. They will find the page and the book that the item is placed, therefore they can use the book to read the information about the item they was searching for. This app was made in group by me (Danielle Gomes), Alexandre Gomes and Bruno Fontana. It was developed with Java using the Android SDK Framework and the database was made using Firebase. To manage the project we used Gitlab and Discord as communication tool. As soon we finish inputing the data at the database, this app will be released at play store.
+description: This app was developed to be used by the Master of the table RPG Dungeons and Dragons. The master can find the monster needed or random it. The information showed in the app are the page and the name of the book where the monster is. Technologies and tools used: Java (Android SDK) | Android Studio | Firebase | Git - GitLab | MVC | Kanban | AdobeXd
 
 ---
