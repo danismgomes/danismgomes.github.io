@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: iOS Development
-description: The function of this app is to help us to organize our tasks and get then done. Tasks can be added and also its details like priority, category and deadline. The user can see the tasks finished by day or category. Technologies and tools used: SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
+description: The function of this app is to help us to organize our tasks and get then done. Tasks can be added and also its details like priority, category and deadline. The user can see the tasks finished by day or category. Technologies and tools used - SwiftUI | CocoaPods | Xcode | Firebase | Git/GitHub | MVC | Kanban | Gimp | AdobeXd
 
 ---
