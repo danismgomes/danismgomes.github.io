@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: dedlibraryLogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2019
+client: 
 category: Android Development
 description: This app was developed to be used by the Master of the table RPG Dungeons and Dragons. The master can find the monster needed or random it. The information showed in the app are the page and the name of the book where the monster is.
 
