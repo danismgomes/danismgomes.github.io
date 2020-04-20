@@ -7,6 +7,6 @@ alt: image-alt
 project-date: October 2019
 client: Portfolio Project
 category: iOS Development
-description: App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. Technologies and tools used - Swift | UIKit | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
+description: App designed to be used to organize our personal finances. The features included on the app allow the user to insert deposits and withdrawals and to see the graphs related to the user's transactions. Technologies and tools used - Swift | SwiftUI | CocoaPods | Xcode | Firebase | Git - GitHub | MVC | Kanban | Gimp | AdobeXd
 
 ---
