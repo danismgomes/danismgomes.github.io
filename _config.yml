@@ -1,11 +1,11 @@
 # Site settings
-title: Danielle Gomes
+title: Danielle Machado
 email: danismgomes@gmail.com
 url: https://danismgomes.github.io
-description: "Danielle Gomes' portfolio website"
+description: "Danielle Machado' portfolio website"
 keywords: "Java, Swift, Objective C, iOS development, Android development, Git, SQL, OracleDB, Firebase, SQLite, MySQL, SCRUM, Kanban, project management, troubleshooting, mobile development, iOS development, Android Development"
-skills: "Mobile Developer"
-meta_author: Gomes Danielle
+skills: "iOS Software Engineer"
+meta_author: Machado Danielle
 
 # Google webmaster tools
 google_verify:
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Downtown, Vancouver/BC, Canada
+  - line: Langley/BC, Canada
   #- line: Beverly Hills, CA 90210
 
 # Credits content
